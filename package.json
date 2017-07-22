@@ -1,0 +1,20 @@
+{
+  "name": "node-upgrade",
+  "version": "0.1.22",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "morgan": "^1.8.2",
+    "node-fetch": "^1.7.1",
+    "npm": "^5.3.0",
+    "uuid": "^3.1.0",
+    "yargs": "^8.0.2"
+  }
+}
